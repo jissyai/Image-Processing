@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\student\documents\visual studio 2015\projects\cg_matrix\cg_matrix\source.cpp(79): warning C4244: '引数': 'double' から 'unsigned __int64' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\cg_matrix\cg_matrix\source.cpp(80): warning C4244: '引数': 'double' から 'unsigned __int64' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\cg_matrix\cg_matrix\source.cpp(81): warning C4244: '引数': 'double' から 'unsigned __int64' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\cg_matrix\cg_matrix\source.cpp(82): warning C4244: '引数': 'double' から 'unsigned __int64' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\cg_matrix\cg_matrix\source.cpp(190): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+c:\users\student\documents\visual studio 2015\projects\cg_matrix\cg_matrix\source.cpp(466): warning C4244: '引数': 'double' から 'unsigned __int64' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\cg_matrix\cg_matrix\source.cpp(467): warning C4244: '引数': 'double' から 'unsigned __int64' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\cg_matrix\cg_matrix\source.cpp(468): warning C4244: '引数': 'double' から 'unsigned __int64' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\cg_matrix\cg_matrix\source.cpp(469): warning C4244: '引数': 'double' から 'unsigned __int64' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\cg_matrix\cg_matrix\source.cpp(471): warning C4244: '引数': 'double' から 'unsigned __int64' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\cg_matrix\cg_matrix\source.cpp(424): warning C4101: 'k': ローカル変数は 1 度も使われていません。
+  CG_Matrix.vcxproj -> C:\Users\student\documents\visual studio 2015\Projects\CG_Matrix\x64\Debug\CG_Matrix.exe
+  CG_Matrix.vcxproj -> C:\Users\student\documents\visual studio 2015\Projects\CG_Matrix\x64\Debug\CG_Matrix.pdb (Full PDB)
